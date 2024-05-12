@@ -3,9 +3,9 @@
 import imaplib
 import mailbox
 
-email = 'email@example.com'
-password = 'password'
-imap_server = 'imap.example.com'
+email = 'info@vulcantravels.com'
+password = 'resInfo!3'
+imap_server = 'mail.vulcantravels.com'
 imap_port = 993
 
 imap_connection = imaplib.IMAP4_SSL(imap_server, imap_port)
